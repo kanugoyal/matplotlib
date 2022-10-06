@@ -1,0 +1,1 @@
+Learning Pyhton Matplotlib LIbary for building/ making new plots as per the given data to simply the understanding
